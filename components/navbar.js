@@ -2,7 +2,12 @@ Vue.component('navbar', {
     template: `
         <nav class="navbar navbar-expand-md navbar-dark bg-dark">
             <div class="container">
-                <a href="#" class="navbar-brand">XYZ electronics</a>
+                <a href="#" class="navbar-brand">
+                    <img src='./icons/favicon-white.ico' alt='Company logo' width='45px'
+                        class='mr-3'
+                    >
+                    XYZ electronics
+                </a>
                 <button class='navbar-toggler' type='button' data-toggle='collapse'
                     data-target='#nav-controls'
                 >

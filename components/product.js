@@ -12,20 +12,20 @@ Vue.component('product', {
                 </div>
                 <div class="product-description col-md-6 float-left p-5">
                     <div>
-                        <span class="h3">
+                        <span class="h1">
                             {{title}}
                         </span>
                     </div>
                     <div class="mt-2">
-                        <span class="text-muted h4" v-if='variantQuantity > 10'>
+                        <span class="badge badge-success" v-if='variantQuantity > 10'>
                             In Stock
                         </span>
-                        <span class="text-muted h4"
+                        <span class="badge badge-warning"
                             v-else-if='variantQuantity <= 10 && variantQuantity > 0'>
                             Almost sold
                         </span>
-                        <span class="text-muted h4" v-else>
-                            Out Of Stock
+                        <span class="badge badge-danger" v-else>
+                            Out of Stock
                         </span>
                     </div>
                     <div class='mt-3'>
