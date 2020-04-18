@@ -1,7 +1,7 @@
 # Ecommerce product page
 This repository is a starter kit for a ecommerce product page.
 
-The components includes,
+### The components includes,
 1. A navbar with branding and dynamic cart.
 2. Responsive homepage with dynamic title
 3. Dynamic product selling status (In stock | Almost sold | Out of stock) based product inventory status and variants.
@@ -11,7 +11,7 @@ The components includes,
 7. 2 tabs for showing product reviews and adding a new review with validations
 
 
-Front-end technologies,
+### Front-end technologies,
 
 1. Html
 2. CSS
@@ -19,5 +19,5 @@ Front-end technologies,
 4. VueJS (a JavaScript Framework)
 5. Bootstrap (a CSS Framework for styling and responsiveness)
 
-Screenshot:
+### Screenshot:
 
