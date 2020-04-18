@@ -21,3 +21,4 @@ This repository is a starter kit for a ecommerce product page.
 
 ### Screenshot:
 
+![Product page](./screeshots/home.png)
