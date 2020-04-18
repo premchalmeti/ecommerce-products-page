@@ -21,4 +21,4 @@ This repository is a starter kit for a ecommerce product page.
 
 ### Screenshot:
 
-![Product page](./screeshots/home.png)
+![Product page](https://github.com/premkumar30/ecommerce-products-page/blob/master/screenshots/home.png)
